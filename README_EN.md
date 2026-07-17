@@ -20,6 +20,17 @@
   <img alt="Public showcase repository" src="https://img.shields.io/badge/repository-public%20showcase-2563eb">
 </p>
 
+<h2 align="center">Download</h2>
+
+<p align="center">
+  <a href="https://github.com/RoperYoung/codex-chatgpt-skin-switcher/releases"><img alt="Open Releases to download the macOS version" src="https://img.shields.io/badge/macOS-Open%20Releases-2563eb?logo=apple&amp;logoColor=white"></a>
+  <img alt="Windows version coming soon" src="https://img.shields.io/badge/Windows-Coming%20soon-6b7280?logo=windows&amp;logoColor=white">
+</p>
+
+<p align="center">
+  <sub>The macOS installer has not been uploaded yet. It will be available from Releases once published. The Windows version is coming soon.</sub>
+</p>
+
 > [!IMPORTANT]
 > This is the official public showcase repository for ChatGPT Skin Switcher. It contains product documentation, approved theme packages, screenshots, and a few reference code files. The production application and its core source code are not included.
 

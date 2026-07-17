@@ -20,6 +20,17 @@
   <img alt="公开展示仓库" src="https://img.shields.io/badge/%E4%BB%93%E5%BA%93-%E5%85%AC%E5%BC%80%E5%B1%95%E7%A4%BA-2563eb">
 </p>
 
+<h2 align="center">下载</h2>
+
+<p align="center">
+  <a href="https://github.com/RoperYoung/codex-chatgpt-skin-switcher/releases"><img alt="前往 Releases 下载 macOS 版本" src="https://img.shields.io/badge/macOS-%E5%89%8D%E5%BE%80%20Releases-2563eb?logo=apple&amp;logoColor=white"></a>
+  <img alt="Windows 版本敬请期待" src="https://img.shields.io/badge/Windows-%E6%95%AC%E8%AF%B7%E6%9C%9F%E5%BE%85-6b7280?logo=windows&amp;logoColor=white">
+</p>
+
+<p align="center">
+  <sub>macOS 安装包尚未上传；正式发布后可从 Releases 页面下载。Windows 版本敬请期待。</sub>
+</p>
+
 > [!IMPORTANT]
 > 这是 ChatGPT Skin Switcher 的官方公开展示仓库，包含产品说明、获准公开的主题包、截图及少量参考代码。生产应用及其核心源码不在本仓库中。
 
