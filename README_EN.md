@@ -23,11 +23,12 @@
 <h2 align="center">⬇️ Download the App</h2>
 
 <p align="center">
-  <a href="https://github.com/RoperYoung/chatgpt-codex-skin-switcher/releases"><img height="44" alt="Open GitHub Releases to get the macOS version" src="https://img.shields.io/badge/macOS-Open%20GitHub%20Releases-0969da?style=for-the-badge&amp;logo=apple&amp;logoColor=white"></a>
+  <a href="https://github.com/RoperYoung/chatgpt-codex-skin-switcher/releases/download/v1.0.6/ChatGPT-Skin-Switcher-1.0.6-build7-notarized.dmg"><img height="44" alt="Download ChatGPT Skin Switcher v1.0.6 macOS DMG" src="https://img.shields.io/badge/macOS-Download%20v1.0.6%20DMG-0969da?style=for-the-badge&amp;logo=apple&amp;logoColor=white"></a>
 </p>
 
 <p align="center">
-  <strong><a href="https://github.com/RoperYoung/chatgpt-codex-skin-switcher/releases">View all releases and installers →</a></strong>
+  <strong><a href="https://github.com/RoperYoung/chatgpt-codex-skin-switcher/releases/tag/v1.0.6">View the v1.0.6 release notes and SHA-256 →</a></strong><br>
+  <a href="https://github.com/RoperYoung/chatgpt-codex-skin-switcher/releases/latest">View all stable releases</a>
 </p>
 
 <p align="center">
@@ -35,8 +36,10 @@
 </p>
 
 <p align="center">
-  <sub>The macOS installer is being prepared and will be available from Releases once published.</sub>
+  <sub>Universal for Apple Silicon and Intel Macs. Requires macOS 14 or later. Both the App and DMG are Apple-notarized.</sub>
 </p>
+
+To install: click the blue button above to download the DMG, open it, drag **ChatGPT Skin Switcher.app** along the arrow into **Applications**, then launch it from Applications.
 
 > [!IMPORTANT]
 > This is the official public showcase repository for ChatGPT Skin Switcher. It contains product documentation, approved theme packages, screenshots, and a few reference code files. The production application and its core source code are not included.

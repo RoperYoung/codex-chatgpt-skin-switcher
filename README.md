@@ -23,11 +23,12 @@
 <h2 align="center">⬇️ 下载应用</h2>
 
 <p align="center">
-  <a href="https://github.com/RoperYoung/chatgpt-codex-skin-switcher/releases"><img height="44" alt="前往 GitHub Releases 获取 macOS 版本" src="https://img.shields.io/badge/macOS-%E5%89%8D%E5%BE%80%20GitHub%20Releases-0969da?style=for-the-badge&amp;logo=apple&amp;logoColor=white"></a>
+  <a href="https://github.com/RoperYoung/chatgpt-codex-skin-switcher/releases/download/v1.0.6/ChatGPT-Skin-Switcher-1.0.6-build7-notarized.dmg"><img height="44" alt="下载 ChatGPT Skin Switcher v1.0.6 macOS DMG" src="https://img.shields.io/badge/macOS-%E4%B8%8B%E8%BD%BD%20v1.0.6%20DMG-0969da?style=for-the-badge&amp;logo=apple&amp;logoColor=white"></a>
 </p>
 
 <p align="center">
-  <strong><a href="https://github.com/RoperYoung/chatgpt-codex-skin-switcher/releases">查看全部发布版本与安装包 →</a></strong>
+  <strong><a href="https://github.com/RoperYoung/chatgpt-codex-skin-switcher/releases/tag/v1.0.6">查看 v1.0.6 发布说明与 SHA-256 →</a></strong><br>
+  <a href="https://github.com/RoperYoung/chatgpt-codex-skin-switcher/releases/latest">查看全部正式版本</a>
 </p>
 
 <p align="center">
@@ -35,8 +36,10 @@
 </p>
 
 <p align="center">
-  <sub>macOS 安装包正在准备中，正式发布后可从 Releases 页面下载。</sub>
+  <sub>Universal 版本，支持 Apple Silicon 与 Intel Mac；要求 macOS 14 或更高版本。App 与 DMG 均已通过 Apple 公证。</sub>
 </p>
+
+安装方法：点击上方蓝色按钮下载 DMG，打开后沿箭头将 **ChatGPT Skin Switcher.app** 拖入 **Applications（应用程序）** 文件夹，再从“应用程序”中启动。
 
 > [!IMPORTANT]
 > 这是 ChatGPT Skin Switcher 的官方公开展示仓库，包含产品说明、获准公开的主题包、截图及少量参考代码。生产应用及其核心源码不在本仓库中。
