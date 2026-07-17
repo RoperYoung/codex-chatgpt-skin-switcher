@@ -20,15 +20,22 @@
   <img alt="Public showcase repository" src="https://img.shields.io/badge/repository-public%20showcase-2563eb">
 </p>
 
-<h2 align="center">Download</h2>
+<h2 align="center">⬇️ Download the App</h2>
 
 <p align="center">
-  <a href="https://github.com/RoperYoung/chatgpt-codex-skin-switcher/releases"><img alt="Open Releases to download the macOS version" src="https://img.shields.io/badge/macOS-Open%20Releases-2563eb?logo=apple&amp;logoColor=white"></a>
-  <img alt="Windows version coming soon" src="https://img.shields.io/badge/Windows-Coming%20soon-6b7280?logo=windows&amp;logoColor=white">
+  <a href="https://github.com/RoperYoung/chatgpt-codex-skin-switcher/releases"><img height="44" alt="Open GitHub Releases to get the macOS version" src="https://img.shields.io/badge/macOS-Open%20GitHub%20Releases-0969da?style=for-the-badge&amp;logo=apple&amp;logoColor=white"></a>
 </p>
 
 <p align="center">
-  <sub>The macOS installer has not been uploaded yet. It will be available from Releases once published. The Windows version is coming soon.</sub>
+  <strong><a href="https://github.com/RoperYoung/chatgpt-codex-skin-switcher/releases">View all releases and installers →</a></strong>
+</p>
+
+<p align="center">
+  <img height="30" alt="Windows version coming soon" src="https://img.shields.io/badge/Windows-Coming%20soon-6b7280?style=for-the-badge&amp;logo=windows&amp;logoColor=white">
+</p>
+
+<p align="center">
+  <sub>The macOS installer is being prepared and will be available from Releases once published.</sub>
 </p>
 
 > [!IMPORTANT]

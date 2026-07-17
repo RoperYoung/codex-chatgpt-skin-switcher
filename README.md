@@ -20,15 +20,22 @@
   <img alt="公开展示仓库" src="https://img.shields.io/badge/%E4%BB%93%E5%BA%93-%E5%85%AC%E5%BC%80%E5%B1%95%E7%A4%BA-2563eb">
 </p>
 
-<h2 align="center">下载</h2>
+<h2 align="center">⬇️ 下载应用</h2>
 
 <p align="center">
-  <a href="https://github.com/RoperYoung/chatgpt-codex-skin-switcher/releases"><img alt="前往 Releases 下载 macOS 版本" src="https://img.shields.io/badge/macOS-%E5%89%8D%E5%BE%80%20Releases-2563eb?logo=apple&amp;logoColor=white"></a>
-  <img alt="Windows 版本敬请期待" src="https://img.shields.io/badge/Windows-%E6%95%AC%E8%AF%B7%E6%9C%9F%E5%BE%85-6b7280?logo=windows&amp;logoColor=white">
+  <a href="https://github.com/RoperYoung/chatgpt-codex-skin-switcher/releases"><img height="44" alt="前往 GitHub Releases 获取 macOS 版本" src="https://img.shields.io/badge/macOS-%E5%89%8D%E5%BE%80%20GitHub%20Releases-0969da?style=for-the-badge&amp;logo=apple&amp;logoColor=white"></a>
 </p>
 
 <p align="center">
-  <sub>macOS 安装包尚未上传；正式发布后可从 Releases 页面下载。Windows 版本敬请期待。</sub>
+  <strong><a href="https://github.com/RoperYoung/chatgpt-codex-skin-switcher/releases">查看全部发布版本与安装包 →</a></strong>
+</p>
+
+<p align="center">
+  <img height="30" alt="Windows 版本敬请期待" src="https://img.shields.io/badge/Windows-%E6%95%AC%E8%AF%B7%E6%9C%9F%E5%BE%85-6b7280?style=for-the-badge&amp;logo=windows&amp;logoColor=white">
+</p>
+
+<p align="center">
+  <sub>macOS 安装包正在准备中，正式发布后可从 Releases 页面下载。</sub>
 </p>
 
 > [!IMPORTANT]
