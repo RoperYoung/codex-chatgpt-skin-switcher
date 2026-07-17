@@ -1,0 +1,20 @@
+{
+  "manifestVersion": 1,
+  "packageID": "cn.neoubub.codexskin.dongbei-yujie-winter-yard",
+  "themeID": "C0DE1006-5A17-4A11-9000-000000000006",
+  "packageVersion": 2,
+  "minimumEngineVersion": 4,
+  "localizedNames": { "zh-Hans": "东北雨姐 · 冬日小院", "en": "Dongbei Yujie · Winter Yard" },
+  "author": "ChatGPT Skin Switcher",
+  "license": "Local preview only",
+  "rights": "人物公开分发前需取得本人或权利人授权",
+  "homeImage": { "path": "home.jpg", "pixelWidth": 2560, "pixelHeight": 1440, "byteSize": 806780, "sha256": "30d5cf6aa03cacf40387e9eee2bef34495d772ea14062312e1457eb9f1956ad1" },
+  "taskImage": { "path": "task.jpg", "pixelWidth": 2560, "pixelHeight": 1440, "byteSize": 752889, "sha256": "afabe38da45af36cd155ef50b7e79c8eb4e2460ec31805b0f1b7d6d9f0d8ea87" },
+  "previewImage": { "path": "preview.jpg", "pixelWidth": 640, "pixelHeight": 360, "byteSize": 87166, "sha256": "7ef12c367cbb3c831060e7d3008d922b25f4ba785d73f2395755757724837225" },
+  "appearance": "light",
+  "palette": { "mode": "custom", "accent": { "red": 0.78431, "green": 0.23922, "blue": 0.19608 }, "secondary": { "red": 0.42353, "green": 0.61569, "blue": 0.69804 }, "highlight": { "red": 0.85098, "green": 0.64314, "blue": 0.2549 } },
+  "safeArea": "left",
+  "home": { "focusX": 0.76, "focusY": 0.44, "zoom": 1, "opacity": 0.92, "blur": 0, "overlay": 0.1 },
+  "task": { "focusX": 0.82, "focusY": 0.48, "zoom": 1, "opacity": 0.66, "blur": 0, "overlay": 0.2 },
+  "taskMode": "ambient"
+}

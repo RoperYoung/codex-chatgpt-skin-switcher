@@ -1,0 +1,20 @@
+{
+  "manifestVersion": 1,
+  "packageID": "cn.neoubub.codexskin.messi-blue-gold-night",
+  "themeID": "C0DE1005-5A17-4A11-9000-000000000005",
+  "packageVersion": 2,
+  "minimumEngineVersion": 4,
+  "localizedNames": { "zh-Hans": "GOAT", "en": "GOAT" },
+  "author": "ChatGPT Skin Switcher · Tasnim News Agency",
+  "license": "CC BY 4.0 source photo; local preview package",
+  "rights": "任务页基于 Hossein Zohrevand / Tasnim News Agency CC BY 4.0 照片合成；人物与球队元素公开分发前仍需独立权利审查",
+  "homeImage": { "path": "home.jpg", "pixelWidth": 2560, "pixelHeight": 1440, "byteSize": 725085, "sha256": "ab0e77769477c8357d925790c69276ec41b2098b081ad8c060855a8365e9f966" },
+  "taskImage": { "path": "task.jpg", "pixelWidth": 2560, "pixelHeight": 1440, "byteSize": 394266, "sha256": "e85e7e028fab6dd3c435e4dc872379805951d934a7c6981b376954dde4ef2001" },
+  "previewImage": { "path": "preview.jpg", "pixelWidth": 640, "pixelHeight": 360, "byteSize": 72730, "sha256": "c7f465be5225e90345b2566724458e8a1c4d0ec8a182794fba283cdd23c08da5" },
+  "appearance": "dark",
+  "palette": { "mode": "custom", "accent": { "red": 0.45882, "green": 0.66667, "blue": 0.85882 }, "secondary": { "red": 0.83922, "green": 0.71373, "blue": 0.35686 }, "highlight": { "red": 0.07059, "green": 0.15686, "blue": 0.2902 } },
+  "safeArea": "left",
+  "home": { "focusX": 0.76, "focusY": 0.44, "zoom": 1, "opacity": 0.92, "blur": 0, "overlay": 0.12 },
+  "task": { "focusX": 0.82, "focusY": 0.48, "zoom": 1, "opacity": 0.64, "blur": 0, "overlay": 0.24 },
+  "taskMode": "ambient"
+}

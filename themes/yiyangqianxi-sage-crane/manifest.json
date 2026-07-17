@@ -1,0 +1,20 @@
+{
+  "manifestVersion": 1,
+  "packageID": "cn.neoubub.codexskin.yiyangqianxi-sage-crane",
+  "themeID": "C0DE1007-5A17-4A11-9000-000000000007",
+  "packageVersion": 1,
+  "minimumEngineVersion": 4,
+  "localizedNames": { "zh-Hans": "易烊千玺 · 清透鼠尾草", "en": "Jackson Yee · Sage Crane" },
+  "author": "ChatGPT Skin Switcher",
+  "license": "Local preview only",
+  "rights": "人物公开分发前需取得本人或权利人授权",
+  "homeImage": { "path": "home.jpg", "pixelWidth": 2560, "pixelHeight": 1440, "byteSize": 884139, "sha256": "a48f957960e8525e1663201fd1b3799a5d47f1836d54313fd1e6063a5c892ce0" },
+  "taskImage": { "path": "task.jpg", "pixelWidth": 2560, "pixelHeight": 1440, "byteSize": 841775, "sha256": "6efeeb6061a981ee75228c64de211a2a6a469f9e38cb6e3c9919b077319bfd00" },
+  "previewImage": { "path": "preview.jpg", "pixelWidth": 640, "pixelHeight": 360, "byteSize": 78238, "sha256": "5f77252e9c3e01ac9f05c6e20ac11d4428563664ccbd37a72a8a6228edbcb14b" },
+  "appearance": "light",
+  "palette": { "mode": "custom", "accent": { "red": 0.55686, "green": 0.64706, "blue": 0.54902 }, "secondary": { "red": 0.93725, "green": 0.91373, "blue": 0.8549 }, "highlight": { "red": 0.71765, "green": 0.60392, "blue": 0.38431 } },
+  "safeArea": "left",
+  "home": { "focusX": 0.76, "focusY": 0.44, "zoom": 1, "opacity": 0.94, "blur": 0, "overlay": 0.08 },
+  "task": { "focusX": 0.82, "focusY": 0.48, "zoom": 1, "opacity": 0.68, "blur": 0, "overlay": 0.18 },
+  "taskMode": "ambient"
+}
