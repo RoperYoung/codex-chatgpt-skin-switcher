@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/brand-logo.png" width="92" alt="ChatGPT Skin Switcher 标志">
+  <img src="assets/brand-logo.png" width="92" alt="ChatGPT/Codex Skin Switcher 标志">
 </p>
 
-<h1 align="center">ChatGPT Skin Switcher</h1>
+<h1 align="center">ChatGPT/Codex Skin Switcher</h1>
 
 <p align="center">
   <strong>让 ChatGPT 与 Codex，拥有你的工作氛围。</strong>
@@ -23,7 +23,7 @@
 <h2 align="center">下载</h2>
 
 <p align="center">
-  <a href="https://github.com/RoperYoung/codex-chatgpt-skin-switcher/releases"><img alt="前往 Releases 下载 macOS 版本" src="https://img.shields.io/badge/macOS-%E5%89%8D%E5%BE%80%20Releases-2563eb?logo=apple&amp;logoColor=white"></a>
+  <a href="https://github.com/RoperYoung/chatgpt-codex-skin-switcher/releases"><img alt="前往 Releases 下载 macOS 版本" src="https://img.shields.io/badge/macOS-%E5%89%8D%E5%BE%80%20Releases-2563eb?logo=apple&amp;logoColor=white"></a>
   <img alt="Windows 版本敬请期待" src="https://img.shields.io/badge/Windows-%E6%95%AC%E8%AF%B7%E6%9C%9F%E5%BE%85-6b7280?logo=windows&amp;logoColor=white">
 </p>
 

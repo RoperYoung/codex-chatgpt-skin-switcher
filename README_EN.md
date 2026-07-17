@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/brand-logo.png" width="92" alt="ChatGPT Skin Switcher logo">
+  <img src="assets/brand-logo.png" width="92" alt="ChatGPT/Codex Skin Switcher logo">
 </p>
 
-<h1 align="center">ChatGPT Skin Switcher</h1>
+<h1 align="center">ChatGPT/Codex Skin Switcher</h1>
 
 <p align="center">
   <strong>Give ChatGPT and Codex a workspace that feels like yours.</strong>
@@ -23,7 +23,7 @@
 <h2 align="center">Download</h2>
 
 <p align="center">
-  <a href="https://github.com/RoperYoung/codex-chatgpt-skin-switcher/releases"><img alt="Open Releases to download the macOS version" src="https://img.shields.io/badge/macOS-Open%20Releases-2563eb?logo=apple&amp;logoColor=white"></a>
+  <a href="https://github.com/RoperYoung/chatgpt-codex-skin-switcher/releases"><img alt="Open Releases to download the macOS version" src="https://img.shields.io/badge/macOS-Open%20Releases-2563eb?logo=apple&amp;logoColor=white"></a>
   <img alt="Windows version coming soon" src="https://img.shields.io/badge/Windows-Coming%20soon-6b7280?logo=windows&amp;logoColor=white">
 </p>
 
