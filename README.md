@@ -10,6 +10,11 @@
 </p>
 
 <p align="center">
+  <a href="#简体中文"><img alt="简体中文" src="https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-%E9%98%85%E8%AF%BB-2563eb"></a>
+  <a href="#english"><img alt="English" src="https://img.shields.io/badge/English-Read-111827"></a>
+</p>
+
+<p align="center">
   <img alt="macOS 14+" src="https://img.shields.io/badge/macOS-14%2B-111111?logo=apple">
   <img alt="Universal" src="https://img.shields.io/badge/Universal-Apple%20Silicon%20%2B%20Intel-4f46e5">
   <img alt="Local first" src="https://img.shields.io/badge/privacy-local--first-16a34a">
