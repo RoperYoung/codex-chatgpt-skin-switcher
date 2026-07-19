@@ -1,0 +1,22 @@
+{
+  "manifestVersion": 1,
+  "packageID": "cn.neoubub.codexskin.kirara-asuka-poolside",
+  "themeID": "C0DE1013-5A17-4A11-9000-000000000013",
+  "packageVersion": 1,
+  "minimumEngineVersion": 5,
+  "localizedNames": { "zh-Hans": "明日花绮罗 · 海景泳池", "en": "Kirara Asuka · Poolside Blue" },
+  "author": "ChatGPT Skin Switcher",
+  "license": "Local preview only",
+  "rights": "人物公开分发前需取得本人或权利人授权",
+  "copy": { "brand": "绮罗海边 Codex", "headline": "今天从哪儿开始？", "subtitle": "吹着海风理清需求，再把代码漂亮地写完。", "style": "elegant" },
+  "visualStyle": "blackGold",
+  "homeImage": { "path": "home.jpg", "pixelWidth": 2560, "pixelHeight": 1440, "byteSize": 472975, "sha256": "af5046127a03502173c956bb4041346845e99098dd06122fe202a3129d4ae2c0" },
+  "taskImage": { "path": "task.jpg", "pixelWidth": 2560, "pixelHeight": 1440, "byteSize": 472975, "sha256": "af5046127a03502173c956bb4041346845e99098dd06122fe202a3129d4ae2c0" },
+  "previewImage": { "path": "preview.jpg", "pixelWidth": 640, "pixelHeight": 360, "byteSize": 48775, "sha256": "20fba995e2ac9f501925b3e545530f66345026ad576db1ce9ccd048848e9b574" },
+  "appearance": "light",
+  "palette": { "mode": "custom", "accent": { "red": 0.10196, "green": 0.67843, "blue": 0.78039 }, "secondary": { "red": 0.83137, "green": 0.92157, "blue": 0.94902 }, "highlight": { "red": 0.03137, "green": 0.3098, "blue": 0.43137 } },
+  "safeArea": "left",
+  "home": { "focusX": 0.78, "focusY": 0.45, "zoom": 1, "opacity": 0.94, "blur": 0, "overlay": 0.08 },
+  "task": { "focusX": 0.78, "focusY": 0.45, "zoom": 1, "opacity": 0.94, "blur": 0, "overlay": 0.08 },
+  "taskMode": "ambient"
+}

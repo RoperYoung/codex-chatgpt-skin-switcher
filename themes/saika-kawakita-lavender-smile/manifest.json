@@ -1,0 +1,22 @@
+{
+  "manifestVersion": 1,
+  "packageID": "cn.neoubub.codexskin.saika-kawakita-lavender-smile",
+  "themeID": "C0DE1012-5A17-4A11-9000-000000000012",
+  "packageVersion": 1,
+  "minimumEngineVersion": 5,
+  "localizedNames": { "zh-Hans": "河北彩花 · 浅紫笑颜", "en": "Saika Kawakita · Lavender Smile" },
+  "author": "ChatGPT Skin Switcher",
+  "license": "Local preview only",
+  "rights": "人物公开分发前需取得本人或权利人授权",
+  "copy": { "brand": "彩花微笑 Codex", "headline": "今天想写点什么？", "subtitle": "把想法说给彩花听，我们一起慢慢做出来。", "style": "warm" },
+  "visualStyle": "wisteriaMoon",
+  "homeImage": { "path": "home.jpg", "pixelWidth": 2560, "pixelHeight": 1440, "byteSize": 600440, "sha256": "87585dc3fb392c29248115b80229497d135758ff071c410024b4dba4629a13ac" },
+  "taskImage": { "path": "task.jpg", "pixelWidth": 2560, "pixelHeight": 1440, "byteSize": 600440, "sha256": "87585dc3fb392c29248115b80229497d135758ff071c410024b4dba4629a13ac" },
+  "previewImage": { "path": "preview.jpg", "pixelWidth": 640, "pixelHeight": 360, "byteSize": 60988, "sha256": "c773f4130f5b5e813785756b4e2f1c77c39e6cc06fb54c75ec9b1e0e121f0d9c" },
+  "appearance": "light",
+  "palette": { "mode": "custom", "accent": { "red": 0.54902, "green": 0.45098, "blue": 0.72157 }, "secondary": { "red": 0.87059, "green": 0.9098, "blue": 0.83922 }, "highlight": { "red": 0.36078, "green": 0.25882, "blue": 0.47843 } },
+  "safeArea": "left",
+  "home": { "focusX": 0.79, "focusY": 0.45, "zoom": 1, "opacity": 0.95, "blur": 0, "overlay": 0.06 },
+  "task": { "focusX": 0.79, "focusY": 0.45, "zoom": 1, "opacity": 0.95, "blur": 0, "overlay": 0.06 },
+  "taskMode": "ambient"
+}

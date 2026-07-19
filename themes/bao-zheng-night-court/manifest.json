@@ -1,0 +1,22 @@
+{
+  "manifestVersion": 1,
+  "packageID": "cn.neoubub.codexskin.bao-zheng-night-court",
+  "themeID": "C0DE1016-5A17-4A11-9000-000000000016",
+  "packageVersion": 1,
+  "minimumEngineVersion": 5,
+  "localizedNames": { "zh-Hans": "包青天 · 开封夜审", "en": "Bao Zheng · Night Court" },
+  "author": "ChatGPT Skin Switcher",
+  "license": "Local preview only",
+  "rights": "历史人物与影视化符号公开分发前需独立权利审查",
+  "copy": { "brand": "开封府 Codex", "headline": "堂下何 Bug？", "subtitle": "证据拿来，本府今天就把问题查个明白。", "style": "brush" },
+  "visualStyle": "kaifengCourt",
+  "homeImage": { "path": "home.jpg", "pixelWidth": 2560, "pixelHeight": 1440, "byteSize": 632171, "sha256": "e7ebaa8e597d69b40df9f3643b7833970435b4d73c6f289fec2bd57671d5a77a" },
+  "taskImage": { "path": "task.jpg", "pixelWidth": 2560, "pixelHeight": 1440, "byteSize": 632171, "sha256": "e7ebaa8e597d69b40df9f3643b7833970435b4d73c6f289fec2bd57671d5a77a" },
+  "previewImage": { "path": "preview.jpg", "pixelWidth": 640, "pixelHeight": 360, "byteSize": 59371, "sha256": "1acc0383f195d39c011845621ccd1e727dc1354c40e3e4b45c5c2fe0cc16bfba" },
+  "appearance": "dark",
+  "palette": { "mode": "custom", "accent": { "red": 0.63922, "green": 0.07059, "blue": 0.0902 }, "secondary": { "red": 0.78039, "green": 0.61961, "blue": 0.21961 }, "highlight": { "red": 0.05098, "green": 0.12157, "blue": 0.12157 } },
+  "safeArea": "left",
+  "home": { "focusX": 0.78, "focusY": 0.44, "zoom": 1, "opacity": 0.9, "blur": 0, "overlay": 0.16 },
+  "task": { "focusX": 0.78, "focusY": 0.44, "zoom": 1, "opacity": 0.9, "blur": 0, "overlay": 0.16 },
+  "taskMode": "ambient"
+}

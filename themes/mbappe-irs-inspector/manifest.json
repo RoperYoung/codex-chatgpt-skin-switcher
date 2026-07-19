@@ -1,0 +1,22 @@
+{
+  "manifestVersion": 1,
+  "packageID": "cn.neoubub.codexskin.mbappe-irs-inspector",
+  "themeID": "C0DE1011-5A17-4A11-9000-000000000011",
+  "packageVersion": 1,
+  "minimumEngineVersion": 5,
+  "localizedNames": { "zh-Hans": "姆巴佩 · IRS 税务局", "en": "Mbappe · IRS Inspector" },
+  "author": "ChatGPT Skin Switcher",
+  "license": "Local preview only",
+  "rights": "人物、徽章与机构戏仿元素公开分发前需独立权利审查",
+  "copy": { "brand": "IRS 税务 Codex", "headline": "我是国税局，补税啦。", "subtitle": "代码和账单都别漏，今天一项一项查清楚。", "style": "sports" },
+  "visualStyle": "mbappeRush",
+  "homeImage": { "path": "home.jpg", "pixelWidth": 2560, "pixelHeight": 1440, "byteSize": 561440, "sha256": "d026e04dce2054decb4de348fea2e4e72dbf8fcad41b26149d82af42706f9ce3" },
+  "taskImage": { "path": "task.jpg", "pixelWidth": 2560, "pixelHeight": 1440, "byteSize": 561440, "sha256": "d026e04dce2054decb4de348fea2e4e72dbf8fcad41b26149d82af42706f9ce3" },
+  "previewImage": { "path": "preview.jpg", "pixelWidth": 640, "pixelHeight": 360, "byteSize": 60499, "sha256": "6b30419c215dc81478e81b20f7e602c1b8e7e41dab1dded98af0a5bf666204c9" },
+  "appearance": "dark",
+  "palette": { "mode": "custom", "accent": { "red": 0.18039, "green": 0.36078, "blue": 0.52157 }, "secondary": { "red": 0.8, "green": 0.85882, "blue": 0.90196 }, "highlight": { "red": 0.05882, "green": 0.14902, "blue": 0.23922 } },
+  "safeArea": "left",
+  "home": { "focusX": 0.79, "focusY": 0.45, "zoom": 1, "opacity": 0.92, "blur": 0, "overlay": 0.1 },
+  "task": { "focusX": 0.79, "focusY": 0.45, "zoom": 1, "opacity": 0.92, "blur": 0, "overlay": 0.1 },
+  "taskMode": "ambient"
+}

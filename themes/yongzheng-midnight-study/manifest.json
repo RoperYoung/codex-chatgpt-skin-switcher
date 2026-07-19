@@ -1,0 +1,22 @@
+{
+  "manifestVersion": 1,
+  "packageID": "cn.neoubub.codexskin.yongzheng-midnight-study",
+  "themeID": "C0DE1015-5A17-4A11-9000-000000000015",
+  "packageVersion": 1,
+  "minimumEngineVersion": 5,
+  "localizedNames": { "zh-Hans": "雍正 · 深夜御批", "en": "Yongzheng · Midnight Review" },
+  "author": "ChatGPT Skin Switcher",
+  "license": "Local preview only",
+  "rights": "历史人物艺术化主题，相关服饰与器物元素公开分发前需独立权利审查",
+  "copy": { "brand": "雍正御批 Codex", "headline": "这段代码，朕再看看。", "subtitle": "需求呈上来，今晚不批完不下班。", "style": "classic" },
+  "visualStyle": "imperialReview",
+  "homeImage": { "path": "home.jpg", "pixelWidth": 2560, "pixelHeight": 1440, "byteSize": 585071, "sha256": "d8e62c4207c7eeb7c8ea243f474ccbb0d9a82d52e3aa858253d79643d45bc812" },
+  "taskImage": { "path": "task.jpg", "pixelWidth": 2560, "pixelHeight": 1440, "byteSize": 585071, "sha256": "d8e62c4207c7eeb7c8ea243f474ccbb0d9a82d52e3aa858253d79643d45bc812" },
+  "previewImage": { "path": "preview.jpg", "pixelWidth": 640, "pixelHeight": 360, "byteSize": 58579, "sha256": "a7dc623b25cc9e48ee153c852d5f0f5460b7c836573849cf1e4697f938e4b5aa" },
+  "appearance": "dark",
+  "palette": { "mode": "custom", "accent": { "red": 0.72157, "green": 0.2, "blue": 0.16078 }, "secondary": { "red": 0.78039, "green": 0.58824, "blue": 0.25882 }, "highlight": { "red": 0.14902, "green": 0.07843, "blue": 0.05098 } },
+  "safeArea": "left",
+  "home": { "focusX": 0.78, "focusY": 0.44, "zoom": 1, "opacity": 0.9, "blur": 0, "overlay": 0.16 },
+  "task": { "focusX": 0.78, "focusY": 0.44, "zoom": 1, "opacity": 0.9, "blur": 0, "overlay": 0.16 },
+  "taskMode": "ambient"
+}

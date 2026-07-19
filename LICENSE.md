@@ -22,7 +22,7 @@ The MIT grant above does **not** apply to `assets/` or `themes/`.
 
 The branding, screenshots, and theme packages are published for product presentation and personal evaluation with ChatGPT Skin Switcher. Their appearance in this repository does not grant permission to resell, repackage, sublicense, or redistribute the assets independently.
 
-Some themes depict or reference third-party people, fictional characters, teams, events, trademarks, or other protected material. Those third-party rights remain with their respective owners. Each theme's `manifest.json` records its package-specific attribution and rights notice. The `GOAT` task image incorporates a CC BY 4.0 source photograph credited in its manifest; that source license does not automatically cover unrelated portrait, team, event, or trademark rights.
+Some themes depict or reference third-party people, fictional characters, teams, events, trademarks, or other protected material. Those third-party rights remain with their respective owners. Each theme's `manifest.json` records its package-specific rights notice; no theme artwork is included in the MIT grant above.
 
 ChatGPT Skin Switcher is an independent third-party project and is not affiliated with or endorsed by OpenAI.
 

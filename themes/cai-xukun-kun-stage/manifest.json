@@ -1,0 +1,22 @@
+{
+  "manifestVersion": 1,
+  "packageID": "cn.neoubub.codexskin.cai-xukun-kun-stage",
+  "themeID": "C0DE1010-5A17-4A11-9000-000000000010",
+  "packageVersion": 1,
+  "minimumEngineVersion": 5,
+  "localizedNames": { "zh-Hans": "蔡徐坤 · 粉紫舞台", "en": "Cai Xukun · Purple Stage" },
+  "author": "ChatGPT Skin Switcher",
+  "license": "Local preview only",
+  "rights": "人物与舞台元素公开分发前需取得本人或权利人授权",
+  "copy": { "brand": "KUN 舞台 Codex", "headline": "我们一起创造什么？", "subtitle": "与 KUN 同频，用代码点亮舞台。", "style": "stage" },
+  "visualStyle": "kunStage",
+  "homeImage": { "path": "home.jpg", "pixelWidth": 2560, "pixelHeight": 1440, "byteSize": 544094, "sha256": "cb6c174182532b0614967cc3855c4c2eeaaf7de26f0e30df6c1467b89985bd77" },
+  "taskImage": { "path": "task.jpg", "pixelWidth": 2560, "pixelHeight": 1440, "byteSize": 544094, "sha256": "cb6c174182532b0614967cc3855c4c2eeaaf7de26f0e30df6c1467b89985bd77" },
+  "previewImage": { "path": "preview.jpg", "pixelWidth": 640, "pixelHeight": 360, "byteSize": 54231, "sha256": "564f827d70ea947df7c1fd5f35a370878694de61dd3383a146a91f3d66f3b166" },
+  "appearance": "dark",
+  "palette": { "mode": "custom", "accent": { "red": 0.9098, "green": 0.25098, "blue": 0.87059 }, "secondary": { "red": 0.4, "green": 0.34902, "blue": 0.94902 }, "highlight": { "red": 0.07843, "green": 0.03922, "blue": 0.18039 } },
+  "safeArea": "left",
+  "home": { "focusX": 0.78, "focusY": 0.44, "zoom": 1, "opacity": 0.9, "blur": 0, "overlay": 0.14 },
+  "task": { "focusX": 0.78, "focusY": 0.44, "zoom": 1, "opacity": 0.9, "blur": 0, "overlay": 0.14 },
+  "taskMode": "ambient"
+}

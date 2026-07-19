@@ -7,11 +7,36 @@ struct ThemePackageImageResourceV1: Codable, Equatable, Sendable {
     var pixelHeight: Int
     var byteSize: Int
     var sha256: String
+
+    func hasSameImageContent(as other: ThemePackageImageResourceV1) -> Bool {
+        pixelWidth == other.pixelWidth
+            && pixelHeight == other.pixelHeight
+            && byteSize == other.byteSize
+            && sha256.caseInsensitiveCompare(other.sha256) == .orderedSame
+    }
+}
+
+enum ThemeCopyStyle: String, Codable, Sendable {
+    case standard, warm, elegant, brush, stage, sports, playful, classic
+}
+
+enum ThemeVisualStyle: String, Codable, Sendable {
+    case standard, grandLine, konoha, roseGarden, lawOffice, goatStadium
+    case yujieSweet, sageCrane, cherryGlow, silkRoad, kunStage, mbappeRush
+    case wisteriaMoon, blackGold, peachPop, imperialReview, kaifengCourt
+}
+
+struct ThemeCopy: Codable, Equatable, Sendable {
+    var brand: String?
+    var headline: String?
+    var subtitle: String?
+    var isVisible: Bool?
+    var style: ThemeCopyStyle?
 }
 
 struct ThemePackageManifestV1: Codable, Equatable, Sendable {
     static let currentManifestVersion = 1
-    static let currentEngineVersion = 4
+    static let currentEngineVersion = 5
 
     var manifestVersion: Int = Self.currentManifestVersion
     var packageID: String
@@ -22,6 +47,8 @@ struct ThemePackageManifestV1: Codable, Equatable, Sendable {
     var author: String
     var license: String
     var rights: String
+    var copy: ThemeCopy?
+    var visualStyle: ThemeVisualStyle?
     var homeImage: ThemePackageImageResourceV1
     var taskImage: ThemePackageImageResourceV1
     var previewImage: ThemePackageImageResourceV1
@@ -31,6 +58,10 @@ struct ThemePackageManifestV1: Codable, Equatable, Sendable {
     var home: SceneTuning
     var task: SceneTuning
     var taskMode: TaskDisplayMode
+
+    var usesSharedImage: Bool {
+        homeImage.hasSameImageContent(as: taskImage)
+    }
 
     var displayName: String {
         localizedNames["zh-Hans"]
