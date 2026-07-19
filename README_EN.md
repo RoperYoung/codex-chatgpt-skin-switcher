@@ -20,23 +20,24 @@
   <img alt="Public showcase repository" src="https://img.shields.io/badge/repository-public%20showcase-2563eb">
 </p>
 
-<h2 align="center">⬇️ Download the App</h2>
+<h2 align="center">Download ChatGPT Skin Switcher</h2>
 
 <p align="center">
-  <a href="https://github.com/RoperYoung/chatgpt-codex-skin-switcher/releases/download/v1.0.6/ChatGPT-Skin-Switcher-1.0.6-build7-notarized.dmg"><img height="44" alt="Download ChatGPT Skin Switcher v1.0.6 macOS DMG" src="https://img.shields.io/badge/macOS-Download%20v1.0.6%20DMG-0969da?style=for-the-badge&amp;logo=apple&amp;logoColor=white"></a>
+  <a href="https://github.com/RoperYoung/chatgpt-codex-skin-switcher/releases/download/v1.0.7/ChatGPT-Skin-Switcher-1.0.7-build9-notarized.dmg"><img height="44" alt="Download ChatGPT Skin Switcher v1.0.7 macOS DMG" src="https://img.shields.io/badge/macOS-Download%20v1.0.7%20DMG-0969da?style=for-the-badge&amp;logo=apple&amp;logoColor=white"></a>
 </p>
 
 <p align="center">
-  <strong><a href="https://github.com/RoperYoung/chatgpt-codex-skin-switcher/releases/tag/v1.0.6">View the v1.0.6 release notes and SHA-256 →</a></strong><br>
-  <a href="https://github.com/RoperYoung/chatgpt-codex-skin-switcher/releases/latest">View all stable releases</a>
+  <sub>v1.0.7 (build 9) · macOS 14+ · Apple Silicon + Intel · App and DMG both Apple-notarized</sub>
 </p>
 
 <p align="center">
-  <img height="30" alt="Windows version coming soon" src="https://img.shields.io/badge/Windows-Coming%20soon-6b7280?style=for-the-badge&amp;logo=windows&amp;logoColor=white">
+  <strong><a href="https://github.com/RoperYoung/chatgpt-codex-skin-switcher/releases/tag/v1.0.7">Release notes and SHA-256</a></strong>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/RoperYoung/chatgpt-codex-skin-switcher/releases">All stable releases</a>
 </p>
 
 <p align="center">
-  <sub>Universal for Apple Silicon and Intel Macs. Requires macOS 14 or later. Both the App and DMG are Apple-notarized.</sub>
+  <sub>Windows version in development</sub>
 </p>
 
 To install: click the blue button above to download the DMG, open it, drag **ChatGPT Skin Switcher.app** along the arrow into **Applications**, then launch it from Applications.
@@ -58,7 +59,7 @@ The product is local-first and non-invasive. Personal images and theme settings 
 - **Use your own local images:** Choose or drag in images from your Mac, share one background, or configure ChatGPT and Codex separately; images are never uploaded to the cloud
 - Shared or scene-specific ChatGPT / Codex themes
 - Focus, scale, opacity, blur, and overlay controls
-- Local theme library with eight bundled themes
+- Local theme library with sixteen bundled themes
 - Sequential or random slideshows with smooth transitions
 - Chinese and English interface
 - Pause theming or completely restore the official appearance
@@ -67,41 +68,66 @@ The product is local-first and non-invasive. Personal images and theme settings 
 
 <table>
   <tr>
-    <td width="33%" align="center"><img src="assets/screenshots/app-theme-market.png" alt="Theme market"><br><sub>Theme market</sub></td>
-    <td width="33%" align="center"><img src="assets/screenshots/app-slideshow.png" alt="Background slideshow"><br><sub>Background slideshow</sub></td>
-    <td width="33%" align="center"><img src="assets/screenshots/app-settings.png" alt="Settings"><br><sub>Language and runtime settings</sub></td>
+    <td width="50%" align="center"><img src="assets/screenshots/app-my-themes.png" alt="My themes"><br><sub>My themes</sub></td>
+    <td width="50%" align="center"><img src="assets/screenshots/app-theme-market.png" alt="Theme market"><br><sub>Theme market</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><img src="assets/screenshots/app-theme-editor.png" alt="Theme editor"><br><sub>Theme editor</sub></td>
+    <td width="50%" align="center"><img src="assets/screenshots/app-slideshow.png" alt="Background slideshow"><br><sub>Background slideshow</sub></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="assets/screenshots/app-settings.png" width="50%" alt="Settings"><br><sub>Language, runtime, and restore settings</sub></td>
   </tr>
 </table>
 
-### Eight bundled themes
+### Sixteen bundled themes
 
 <table>
   <tr>
-    <td width="25%" align="center"><img src="themes/one-piece-grand-line/preview.jpg" alt="One Piece · Grand Line"><br><sub>One Piece · Grand Line</sub></td>
-    <td width="25%" align="center"><img src="themes/naruto-konoha-dusk/preview.jpg" alt="Naruto · Konoha Dusk"><br><sub>Naruto · Konoha Dusk</sub></td>
-    <td width="25%" align="center"><img src="themes/arina-rose-dawn/preview.jpg" alt="Arina Hashimoto · Rose Dawn"><br><sub>Arina Hashimoto · Rose Dawn</sub></td>
-    <td width="25%" align="center"><img src="themes/zhang-wei-law-office/preview.jpg" alt="Attorney Zhang Wei · Courtroom Classic"><br><sub>Attorney Zhang Wei · Courtroom Classic</sub></td>
+    <td width="50%" align="center"><img src="themes/one-piece-grand-line/preview.jpg" alt="One Piece · Grand Line"><br><sub>One Piece · Grand Line</sub></td>
+    <td width="50%" align="center"><img src="themes/naruto-konoha-dusk/preview.jpg" alt="Naruto · Konoha Dusk"><br><sub>Naruto · Konoha Dusk</sub></td>
   </tr>
   <tr>
-    <td width="25%" align="center"><img src="themes/messi-blue-gold-night/preview.jpg" alt="GOAT"><br><sub>GOAT</sub></td>
-    <td width="25%" align="center"><img src="themes/dongbei-yujie-winter-yard/preview.jpg" alt="Dongbei Yujie · Winter Courtyard"><br><sub>Dongbei Yujie · Winter Courtyard</sub></td>
-    <td width="25%" align="center"><img src="themes/yiyangqianxi-sage-crane/preview.jpg" alt="Jackson Yee · Sage and Crane"><br><sub>Jackson Yee · Sage and Crane</sub></td>
-    <td width="25%" align="center"><img src="themes/yua-mikami-cherry-glow/preview.jpg" alt="Yua Mikami · Cherry Glow"><br><sub>Yua Mikami · Cherry Glow</sub></td>
+    <td width="50%" align="center"><img src="themes/arina-rose-dawn/preview.jpg" alt="Arina Hashimoto · Rose Dawn"><br><sub>Arina Hashimoto · Rose Dawn</sub></td>
+    <td width="50%" align="center"><img src="themes/zhang-wei-law-office/preview.jpg" alt="Attorney Zhang Wei · Courtroom Classic"><br><sub>Attorney Zhang Wei · Courtroom Classic</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><img src="themes/messi-blue-gold-night/preview.jpg" alt="GOAT"><br><sub>GOAT</sub></td>
+    <td width="50%" align="center"><img src="themes/yiyangqianxi-sage-crane/preview.jpg" alt="Jackson Yee · Sage and Crane"><br><sub>Jackson Yee · Sage and Crane</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><img src="themes/yua-mikami-cherry-glow/preview.jpg" alt="Yua Mikami · Cherry Glow"><br><sub>Yua Mikami · Cherry Glow</sub></td>
+    <td width="50%" align="center"><img src="themes/dongbei-yujie-winter-yard/preview.jpg" alt="Dongbei Yujie · Winter Yard"><br><sub>Dongbei Yujie · Winter Yard</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><img src="themes/dilraba-silk-road/preview.jpg" alt="Dilraba · Silk Road Garden"><br><sub>Dilraba · Silk Road Garden</sub></td>
+    <td width="50%" align="center"><img src="themes/cai-xukun-kun-stage/preview.jpg" alt="Cai Xukun · Purple Stage"><br><sub>Cai Xukun · Purple Stage</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><img src="themes/mbappe-irs-inspector/preview.jpg" alt="Mbappe · IRS Inspector"><br><sub>Mbappe · IRS Inspector</sub></td>
+    <td width="50%" align="center"><img src="themes/saika-kawakita-lavender-smile/preview.jpg" alt="Saika Kawakita · Lavender Smile"><br><sub>Saika Kawakita · Lavender Smile</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><img src="themes/kirara-asuka-poolside/preview.jpg" alt="Kirara Asuka · Poolside Blue"><br><sub>Kirara Asuka · Poolside Blue</sub></td>
+    <td width="50%" align="center"><img src="themes/kana-momonogi-sunlit-bedroom/preview.jpg" alt="Kana Momonogi · Sunlit Room"><br><sub>Kana Momonogi · Sunlit Room</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><img src="themes/yongzheng-midnight-study/preview.jpg" alt="Yongzheng · Midnight Review"><br><sub>Yongzheng · Midnight Review</sub></td>
+    <td width="50%" align="center"><img src="themes/bao-zheng-night-court/preview.jpg" alt="Bao Zheng · Night Court"><br><sub>Bao Zheng · Night Court</sub></td>
   </tr>
 </table>
 
-Each directory contains a ChatGPT background, a Codex background, a preview image, and a Manifest V1 file. They match the eight themes bundled with the application; see [`themes/`](themes/). Portraits, characters, team elements, trademarks, and related images do not automatically receive an MIT or other open-source license merely because this repository is public. See [`LICENSE.md`](LICENSE.md) for the exact boundary.
+Each directory contains one global background shared by ChatGPT and Codex, a preview image, and a Manifest V1 file. Brand, headline, and subtitle remain in a separate text layer that can be hidden at any time. They match the sixteen themes bundled in the application source; see [`themes/`](themes/). Portraits, characters, team elements, trademarks, and related images do not automatically receive an MIT or other open-source license merely because this repository is public. See [`LICENSE.md`](LICENSE.md) for the exact boundary.
 
 ### In action
 
 <table>
   <tr>
-    <td width="50%" align="center"><img src="assets/screenshots/codex-theme-ocean.png" alt="Theme in action, example one"></td>
-    <td width="50%" align="center"><img src="assets/screenshots/codex-theme-rose.png" alt="Theme in action, example two"></td>
+    <td colspan="2" align="center"><img src="assets/screenshots/codex-theme-arina-rose-dawn.png" alt="Arina Hashimoto · Rose Dawn running in Codex"><br><sub>Arina Hashimoto · Rose Dawn</sub></td>
   </tr>
   <tr>
-    <td width="50%" align="center"><img src="assets/screenshots/codex-theme-office.png" alt="Theme in action, example three"></td>
-    <td width="50%" align="center"><img src="assets/screenshots/codex-theme-soft.png" alt="Theme in action, example four"></td>
+    <td width="50%" align="center"><img src="assets/screenshots/codex-theme-dongbei-yujie-winter-yard.png" alt="Dongbei Yujie · Winter Yard running in Codex"><br><sub>Dongbei Yujie · Winter Yard</sub></td>
+    <td width="50%" align="center"><img src="assets/screenshots/codex-theme-kana-momonogi-sunlit-bedroom.png" alt="Kana Momonogi · Sunlit Room running in Codex"><br><sub>Kana Momonogi · Sunlit Room</sub></td>
   </tr>
 </table>
 
@@ -116,7 +142,7 @@ Each directory contains a ChatGPT background, a Codex background, a preview imag
 ```text
 assets/       Approved branding and product screenshots
 examples/     Selected non-core Swift reference files
-themes/       Eight theme packages bundled with the app
+themes/       Sixteen theme packages bundled with the app
 ```
 
 ## Source availability

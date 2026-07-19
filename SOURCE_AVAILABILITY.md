@@ -5,7 +5,7 @@ This repository is an intentionally limited public showcase for ChatGPT Skin Swi
 ## Included
 
 - Product overview and screenshots
-- Eight approved bundled theme packages
+- Sixteen approved bundled theme packages
 - Theme package/catalog data-model references
 - A generic atomic JSON/file-writing reference
 
@@ -23,4 +23,4 @@ The selected reference files under `examples/` are useful for understanding the 
 
 ---
 
-本仓库是有意限制范围的公开展示仓库，并非私有生产仓库的镜像，也不提供可直接构建生产应用的完整源码。公开内容仅包括产品介绍、八套主题包、截图和少量参考代码；核心客户端、运行时、后端、构建、签名与发布流程均不在公开范围内。
+本仓库是有意限制范围的公开展示仓库，并非私有生产仓库的镜像，也不提供可直接构建生产应用的完整源码。公开内容仅包括产品介绍、十六套主题包、截图和少量参考代码；核心客户端、运行时、后端、构建、签名与发布流程均不在公开范围内。

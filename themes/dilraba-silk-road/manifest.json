@@ -1,0 +1,22 @@
+{
+  "manifestVersion": 1,
+  "packageID": "cn.neoubub.codexskin.dilraba-silk-road",
+  "themeID": "C0DE1009-5A17-4A11-9000-000000000009",
+  "packageVersion": 1,
+  "minimumEngineVersion": 5,
+  "localizedNames": { "zh-Hans": "迪丽热巴 · 红花西域", "en": "Dilraba · Silk Road Garden" },
+  "author": "ChatGPT Skin Switcher",
+  "license": "Local preview only",
+  "rights": "人物公开分发前需取得本人或权利人授权",
+  "copy": { "brand": "热巴花园 Codex", "headline": "今晚想做点什么？", "subtitle": "需求说出来，陪你把灵感一条条写成代码。", "style": "elegant" },
+  "visualStyle": "silkRoad",
+  "homeImage": { "path": "home.jpg", "pixelWidth": 2560, "pixelHeight": 1440, "byteSize": 786850, "sha256": "43810ac5611a3a1d3070388dce5748b8adb0979c43971290d976a4331e628100" },
+  "taskImage": { "path": "task.jpg", "pixelWidth": 2560, "pixelHeight": 1440, "byteSize": 786850, "sha256": "43810ac5611a3a1d3070388dce5748b8adb0979c43971290d976a4331e628100" },
+  "previewImage": { "path": "preview.jpg", "pixelWidth": 640, "pixelHeight": 360, "byteSize": 85451, "sha256": "2df51ac5c7cc61f0d479fecba904fea50ae9d06ef06704bdf90a06d8b0686eb2" },
+  "appearance": "light",
+  "palette": { "mode": "custom", "accent": { "red": 0.85098, "green": 0.2, "blue": 0.25882 }, "secondary": { "red": 0.9098, "green": 0.65882, "blue": 0.45098 }, "highlight": { "red": 0.45098, "green": 0.10196, "blue": 0.18039 } },
+  "safeArea": "left",
+  "home": { "focusX": 0.78, "focusY": 0.45, "zoom": 1, "opacity": 0.94, "blur": 0, "overlay": 0.08 },
+  "task": { "focusX": 0.78, "focusY": 0.45, "zoom": 1, "opacity": 0.94, "blur": 0, "overlay": 0.08 },
+  "taskMode": "ambient"
+}

@@ -1,0 +1,22 @@
+{
+  "manifestVersion": 1,
+  "packageID": "cn.neoubub.codexskin.kana-momonogi-sunlit-bedroom",
+  "themeID": "C0DE1014-5A17-4A11-9000-000000000014",
+  "packageVersion": 1,
+  "minimumEngineVersion": 5,
+  "localizedNames": { "zh-Hans": "桃乃木香奈 · 阳光暖屋", "en": "Kana Momonogi · Sunlit Room" },
+  "author": "ChatGPT Skin Switcher",
+  "license": "Local preview only",
+  "rights": "人物公开分发前需取得本人或权利人授权",
+  "copy": { "brand": "香奈暖屋 Codex", "headline": "今天想做什么？", "subtitle": "先舒服地聊聊需求，再把功能一点点做完。", "style": "warm" },
+  "visualStyle": "peachPop",
+  "homeImage": { "path": "home.jpg", "pixelWidth": 2560, "pixelHeight": 1440, "byteSize": 566082, "sha256": "8c22af506b8d6ae1f720c53888d6ca7d06c5984ed97009e423b9133df5a83cac" },
+  "taskImage": { "path": "task.jpg", "pixelWidth": 2560, "pixelHeight": 1440, "byteSize": 566082, "sha256": "8c22af506b8d6ae1f720c53888d6ca7d06c5984ed97009e423b9133df5a83cac" },
+  "previewImage": { "path": "preview.jpg", "pixelWidth": 640, "pixelHeight": 360, "byteSize": 56709, "sha256": "1f716bdc4eb62198232bf3b53d18b6c25c975dc8245615ec0980fa5f82134878" },
+  "appearance": "light",
+  "palette": { "mode": "custom", "accent": { "red": 0.78039, "green": 0.56078, "blue": 0.45098 }, "secondary": { "red": 0.98039, "green": 0.94118, "blue": 0.87843 }, "highlight": { "red": 0.54118, "green": 0.38824, "blue": 0.3098 } },
+  "safeArea": "left",
+  "home": { "focusX": 0.79, "focusY": 0.45, "zoom": 1, "opacity": 0.95, "blur": 0, "overlay": 0.05 },
+  "task": { "focusX": 0.79, "focusY": 0.45, "zoom": 1, "opacity": 0.95, "blur": 0, "overlay": 0.05 },
+  "taskMode": "ambient"
+}
